@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LongestSquenceChecker/.vs
+/LongestSquenceChecker/SequenceChecker/bin/Debug
+/LongestSquenceChecker/SequenceChecker/obj/Debug
+/LongestSquenceChecker/SequenceChecker/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/LongestSquenceChecker/SequenceChecker/obj/Release/SequenceChecker.csproj.AssemblyReference.cache
+/LongestSquenceChecker/TestProject2/bin/Debug/net6.0/cs
+/LongestSquenceChecker/TestProject2/bin/Debug/net6.0
+/LongestSquenceChecker/TestProject2/obj/Debug/net6.0
+/LongestSquenceChecker/TestProject2/obj/Release/net6.0
+/LongestSquenceChecker/TestProject2/obj
